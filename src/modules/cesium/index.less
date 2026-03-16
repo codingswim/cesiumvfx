@@ -11,14 +11,14 @@
     top: 0;
     z-index: 999;
 
-    :where(.css-dev-only-do-not-override-f7vrd6).ant-menu-light,
-    :where(.css-dev-only-do-not-override-f7vrd6).ant-menu-light>.ant-menu {
-      background-color: rgba(0, 0, 0, 0);
-      border: none;
+    .ant-menu-light,
+    .ant-menu-light>.ant-menu {
+      background-color: rgba(0, 0, 0, 0) !important;
+      border: none !important;
 
       .ant-menu-title-content {
-        color: #fff;
-        font-size: 24px;
+        color: #fff !important;
+        font-size: 24px !important;
       }
     }
   }

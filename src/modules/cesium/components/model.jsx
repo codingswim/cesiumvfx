@@ -49,7 +49,7 @@ const ModelPage = () => {
       position: position,
       orientation: orientation,
       model: {
-        uri: '/public/assets/three/workshop/scene/scene.gltf',
+        uri: '/assets/three/workshop/scene/scene.gltf',
         scale: 1.8,
         show: true,
       },
