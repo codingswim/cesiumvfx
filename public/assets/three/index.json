@@ -1,0 +1,542 @@
+
+{
+  "menu": [
+    {
+      "name":"建筑物",
+      "key": "1"
+    },
+    {
+      "name":"围栏/门/梯架/墙",
+      "key": "2"
+    },{
+      
+      "name":"地面/平面",
+      "key": "3"
+    },
+    {
+      "name":"植被/绿化/水",
+      "key": "4"
+      
+    },
+    {
+      "name":"人",
+      "key": "5"
+    }, 
+    {
+      "name":"器材",
+      "key": "6"
+    },  
+    {
+      
+      "name":"厂房/工厂",
+      "key": "7"
+    }, {
+      
+      "name":"罐",
+      "key": "8"
+    }
+  ],
+  "models": [
+    {
+      "tags": [
+        "建筑物"
+      ],
+      "menuKey": "1",
+      "url": "/assets/three/building/office/bangonglou3.fbx",
+      "snapshot": "/assets/three/building/office/scene.jpg",
+      "size": 427088,
+      "originalname": "办公楼",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "建筑物"
+      ],
+      "menuKey": "1",
+      "url": "/assets/three/building/office2/bangongloulan5.glb",
+      "snapshot": "/assets/three/building/office2/scene.jpg",
+      "size": 726760,
+      "originalname": "办公楼2",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "建筑物"
+      ],
+      "menuKey": "1",
+      "url": "/assets/three/building/office3/bangonglou3.gltf",
+      "snapshot": "/assets/three/building/office3/scene.jpg",
+      "size": 715076,
+      "originalname": "办公楼3",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "建筑物"
+      ],
+      "menuKey": "1",
+      "url": "/assets/three/building/office4/bangonglou3.glb",
+      "snapshot": "/assets/three/building/office4/scene.jpg",
+      "size": 412672,
+      "originalname": "办公楼4",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "建筑物"
+      ],
+      "menuKey": "1",
+      "url": "/assets/three/building/office5/bangongloulan5zhuanjiao.glb",
+      "snapshot": "/assets/three/building/office5/scene.jpg",
+      "size": 766332,
+      "originalname": "L型办公楼",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "建筑物"
+      ],
+      "menuKey": "1",
+      "url": "/assets/three/building/reception/menwei.fbx",
+      "snapshot": "/assets/three/building/reception/scene.jpg",
+      "size": 1406976,
+      "originalname": "传达室",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "建筑物"
+      ],
+      "menuKey": "1",
+      "url": "/assets/three/building/shed/pengzi.fbx",
+      "snapshot": "/assets/three/building/shed/scene.jpg",
+      "size": 851037,
+      "originalname": "棚子",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "围栏"
+      ],
+      "menuKey": "2",
+      "url": "/assets/three/gate/fence/weilanlanse.fbx",
+      "snapshot": "/assets/three/gate/fence/scene.jpg",
+      "size": 739616,
+      "originalname": "蓝色围栏",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "围栏"
+      ],
+      "menuKey": "2",
+      "url": "/assets/three/gate/fence2/weilanxiao.fbx",
+      "snapshot": "/assets/three/gate/fence2/scene.jpg",
+      "size": 114132,
+      "originalname": "简易围栏",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "围栏"
+      ],
+      "menuKey": "2",
+      "url": "/assets/three/gate/wall3/weiqiang.glb",
+      "snapshot": "/assets/three/gate/wall3/scene.jpg",
+      "size": 1336308,
+      "originalname": "围墙（栏）",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "围栏"
+      ],
+      "menuKey": "2",
+      "url": "/assets/three/gate/wall/weiqiang1.glb",
+      "snapshot": "/assets/three/gate/wall/scene.jpg",
+      "size": 1118780,
+      "originalname": "红色砖墙",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "围栏"
+      ],
+      "menuKey": "2",
+      "url": "/assets/three/gate/wall2/weiqian2.fbx",
+      "snapshot": "/assets/three/gate/wall2/scene.jpg",
+      "size": 558804,
+      "originalname": "红色砖墙2",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "围栏"
+      ],
+      "menuKey": "2",
+      "url": "/assets/three/gate/shensuomen/shensuomen.glb",
+      "snapshot": "/assets/three/gate/shensuomen/scene.jpg",
+      "size": 2541568,
+      "originalname": "伸缩门",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "围栏"
+      ],
+      "menuKey": "2",
+      "url": "/assets/three/gate/yellow1/damenhuangse.glb",
+      "snapshot": "/assets/three/gate/yellow1/scene.jpg",
+      "size": 1071840,
+      "originalname": "黄色大门",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "围栏"
+      ],
+      "menuKey": "2",
+      "url": "/assets/three/gate/ti/tizi.fbx",
+      "snapshot": "/assets/three/gate/ti/scene.jpg",
+      "size": 399245,
+      "originalname": "梯架",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "草",
+        "地"
+      ],
+      "menuKey": "3",
+      "url": "/assets/three/ground/grass/caodi.glb",
+      "snapshot": "/assets/three/ground/grass/scene.jpg",
+      "size": 1918824,
+      "originalname": "草地",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "草",
+        "地"
+      ],
+      "menuKey": "3",
+      "url": "/assets/three/ground/grass2/caoping.fbx",
+      "snapshot": "/assets/three/ground/grass2/scene.jpg",
+      "size": 1298756,
+      "originalname": "草地2",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "水池",
+        "圆"
+      ],
+      "menuKey": "4",
+      "url": "/assets/three/pool/circle/shuichiyuan.fbx",
+      "snapshot": "/assets/three/pool/circle/scene.jpg",
+      "size": 786661,
+      "originalname": "圆形水池",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "水池",
+        "方"
+      ],
+      "menuKey": "4",
+      "url": "/assets/three/pool/rect/shuichifang.fbx",
+      "snapshot": "/assets/three/pool/rect/scene.jpg",
+      "size": 1159669,
+      "originalname": "方形水池",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "树",
+        "圆"
+      ],
+      "menuKey": "4",
+      "url": "/assets/three/tree/circle/shu.glb",
+      "snapshot": "/assets/three/tree/circle/scene.jpg",
+      "size": 9280540,
+      "originalname": "圆形绿树",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "树",
+        "池"
+      ],
+      "menuKey": "4",
+      "url": "/assets/three/tree/pool/shuchi.fbx",
+      "snapshot": "/assets/three/tree/pool/scene.jpg",
+      "size": 1381217,
+      "originalname": "树池",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "工人"
+      ],
+      "menuKey": "5",
+      "url": "/assets/three/humen/worker/worker.gltf",
+      "snapshot": "/assets/three/humen/worker/scene.png",
+      "size": 840653,
+      "originalname": "工人",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "扳手"
+      ],
+      "menuKey": "6",
+      "url": "/assets/three/equipment/wrench/wrench.fbx",
+      "snapshot": "/assets/three/equipment/wrench/scene.jpg",
+      "size": 180512,
+      "originalname": "扳手",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "摄像头"
+      ],
+      "menuKey": "6",
+      "url": "/assets/three/equipment/camera/shexiangtou.gltf",
+      "snapshot": "/assets/three/equipment/camera/scene.jpg",
+      "size": 2451958,
+      "originalname": "摄像头",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "摄像头"
+      ],
+      "menuKey": "6",
+      "url": "/assets/three/equipment/camera2/camera.fbx",
+      "snapshot": "/assets/three/equipment/camera2/scene.jpg",
+      "size": 1050112,
+      "originalname": "摄像头2",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "摄像头"
+      ],
+      "menuKey": "6",
+      "url": "/assets/three/equipment/camera3/camera.glb",
+      "snapshot": "/assets/three/equipment/camera3/scene.jpg",
+      "size": 2729584 ,
+      "originalname": "摄像头3",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "厂房"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/scene/scene.gltf",
+      "snapshot": "/assets/three/workshop/scene/scene.jpg",
+      "size": 502435,
+      "originalname": "简易厂房",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "厂房"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/baise/changfangbaise.fbx",
+      "snapshot": "/assets/three/workshop/baise/scene.jpg",
+      "size": 435990,
+      "originalname": "淡系厂房",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "厂房"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/blue1/changfanglan1.glb",
+      "snapshot": "/assets/three/workshop/blue1/scene.jpg",
+      "size": 2179488,
+      "originalname": "蓝色厂房",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "厂房"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/blue2/changfanglan2.glb",
+      "snapshot": "/assets/three/workshop/blue2/scene.jpg",
+      "size": 2196924 ,
+      "originalname": "蓝色厂房2",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "仓库"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/cangku1/changfang1.glb",
+      "snapshot": "/assets/three/workshop/cangku1/scene.jpg",
+      "size": 4397052,
+      "originalname": "仓库",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "厂房"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/white/chagfangbaise2.fbx",
+      "snapshot": "/assets/three/workshop/white/scene.jpg",
+      "size": 463052,
+      "originalname": "白色厂房",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "厂房"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/grey/changfanghuise.glb",
+      "snapshot": "/assets/three/workshop/grey/scene.jpg",
+      "size": 3622088,
+      "originalname": "灰色厂房",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "板房"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/blue3/huodongbanfang.glb",
+      "snapshot": "/assets/three/workshop/blue3/scene.jpg",
+      "size": 2120956,
+      "originalname": "活动板房",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "配电房"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/peidianfang/peidianfang1.glb",
+      "snapshot": "/assets/three/workshop/peidianfang/scene.jpg",
+      "size": 586944,
+      "originalname": "配电房",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "烟囱"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/chimney2/yancong1.fbx",
+      "snapshot": "/assets/three/workshop/chimney2/scene.jpg",
+      "size": 1616459,
+      "originalname": "烟囱",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "烟囱"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/chimney/yancong.fbx",
+      "snapshot": "/assets/three/workshop/chimney/scene.jpg",
+      "size": 2015995,
+      "originalname": "烟囱（细）",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "烟囱"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/chimney3/yancongda.fbx",
+      "snapshot": "/assets/three/workshop/chimney3/scene.jpg",
+      "size": 1579768,
+      "originalname": "烟囱（粗）",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "烟囱"
+      ],
+      "menuKey": "7",
+      "url": "/assets/three/workshop/chimney4/1.fbx",
+      "snapshot": "/assets/three/workshop/chimney4/scene.jpg",
+      "size": 1666955,
+      "originalname": "烟囱（梯）",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "罐"
+      ],
+      "menuKey": "8",
+      "url": "/assets/three/can/transverse/guanziheng.glb",
+      "snapshot": "/assets/three/can/transverse/scene.jpg",
+      "size": 2208512,
+      "originalname": "罐子-横",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "罐"
+      ],
+      "menuKey": "8",
+      "url": "/assets/three/can/transverse2/guanzizuhe.glb",
+      "snapshot": "/assets/three/can/transverse2/scene.jpg",
+      "size": 857988,
+      "originalname": "罐子2-横",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "罐"
+      ],
+      "menuKey": "8",
+      "url": "/assets/three/can/vertical/guanzishu.fbx",
+      "snapshot": "/assets/three/can/vertical/scene.jpg",
+      "size": 1517406,
+      "originalname": "罐子-竖",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "罐"
+      ],
+      "menuKey": "8",
+      "url": "/assets/three/can/vertical2/guanzi.fbx",
+      "snapshot": "/assets/three/can/vertical2/scene.jpg",
+      "size": 365303,
+      "originalname": "罐子2-竖",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "罐"
+      ],
+      "menuKey": "8",
+      "url": "/assets/three/can/vertical3/guanzishu2.fbx",
+      "snapshot": "/assets/three/can/vertical3/scene.jpg",
+      "size": 397699,
+      "originalname": "罐子3-竖",
+      "introduce": ""
+    },
+    {
+      "tags": [
+        "罐"
+      ],
+      "menuKey": "8",
+      "url": "/assets/three/can/circle/guanziqiuxing.glb",
+      "snapshot": "/assets/three/can/circle/scene.jpg",
+      "size": 1414088,
+      "originalname": "罐子-球",
+      "introduce": ""
+    }
+  ]
+}
