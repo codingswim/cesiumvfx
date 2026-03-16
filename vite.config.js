@@ -24,12 +24,12 @@ export default defineConfig({
       },
     },
   },
-  build: {
-    // 配置 build.rollupOptions.external 来实现 three 目录下的文件不参与打包
-    rollupOptions: {
-      external: [
-        'public/assets/three/**',
-      ]
-    }
-  }
+  // build: {
+  //   // 配置 build.rollupOptions.external 来实现 three 目录下的文件不参与打包
+  //   rollupOptions: {
+  //     external: [
+  //       'public/assets/three/**',
+  //     ]
+  //   }
+  // }
 });
